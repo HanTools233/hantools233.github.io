@@ -11,7 +11,7 @@ _这只屑又更新了什么？_
 ## 2022/4/17 - 魔改版本：2.14.5
 !> 已知得较为严重的问题：安装时可能会报毒，忽略即可
 
-!> [点此下载改版](https://jikipedia-mg-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8-2.14.5%2B%E9%AD%94%E6%94%B9%E7%89%88.apk)  |  [点此下载原版](https://jikipedia-yb-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B82.14.5-%E5%8E%9F%E7%89%88%E5%A4%87%E4%BB%BD.apk)
+!> [点此下载改版](https://jikipedia-mg-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B82.14.5%2B%E9%AD%94%E6%94%B9%E7%89%88.apk)  |  [点此下载原版](https://jikipedia-yb-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B82.14.5-%E5%8E%9F%E7%89%88%E5%A4%87%E4%BB%BD.apk)
 1. 延续 [2.14.4](/?id=_2022412-魔改版本：2144) 版本魔改的特性，见2.14.4魔改更新日志
 2. **_（实验性）_** 删除部分没有用的资源，减少了一点点体积
 3. 对APK安装包进行**去除签名验证、RES资源混淆**
