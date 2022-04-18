@@ -22,7 +22,9 @@ _这只屑又更新了什么？_
 !> [点此下载改版](https://jikipedia-mg-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8%E9%AD%94%E6%94%B9%E7%89%8822418-Beta1.apk)  |  [点此下载原版](https://jikipedia-yb-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B82.14.5-%E5%8E%9F%E7%89%88%E5%A4%87%E4%BB%BD.apk)
 
 1. 延续 [2.14.5](/?id=_2022417-魔改版本：2145) 版本魔改的特性，见2.14.5魔改更新日志
+
 ?> _注意：_ 去除签名验证、RES资源混淆在此版本并没有取消，~~因为懒~~
+
 2. 不再使用MT管理器默认签名，修复了安装时误报的问题
 3. 修改包名 _com.jikipedia.app_ 为 _bug.hantools.app_ ，也就是意味着原版和魔改版可以共存了！！！
 
