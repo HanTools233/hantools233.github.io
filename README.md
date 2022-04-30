@@ -53,3 +53,54 @@ _这只屑又更新了什么？_
 1. 修改开屏首页<br>
 
 ?> 注：首页图片由 [小鸡词典@浪安先生](https://jikipedia.com/definitions/user/115112142) 提供
+
+# 题外话
+_什么玩意儿？_
+## 来自屑作者的屑妙招
+首先您需要以下能力/设备：<br>
+1. 耐心、冷静、会思考
+2. 作死的勇气和爱整活的心
+3. 会打开/关闭软件
+4. 一台装有Windows 10及以上的系统的电脑，Linux/Mac OS按照下文所需要用到的软件的官方文档按情况而定
+5. 键盘、鼠标、显示器
+6. 带上你的孬紫（脑子）
+7. 准备好你的手
+
+然后让我们开始吧！
+### 鸡典签到总是忘？
+?> 首先，您需要学会一下技能：<br>
+[Python的安装 - win7之家](http://www.win7zhijia.cn/win10jc/win10_44712.html) <br>
+~~不要看到这种小网站就不敢开了好吧~~<br>
+[如何设置开机自启动 - 知乎](https://zhuanlan.zhihu.com/p/445958233) <br>
+
+首先安装好Python，<br>
+然后打开cmd并运行如下命令：
+```cmd
+pip install jikipedia
+```
+打开Python自带的IDLE<br>
+![哪一个软件？图标长什么样？](https://cdn.jsdelivr.net/gh/daizihan233/HanBot@main/img..png) <br>
+![如何IDlE新建Python文件.png](https://cdn.jsdelivr.net/gh/daizihan233/HanBot@main/img._1.png) <br>
+将如下代码粘贴到IDLE里：
+```Python
+from jikipedia import Jikipedia  # 导入刚刚安装的库
+import time  # Pyhon标准库
+# 为了演示瞎编的手机与密码 此处是为了登录，记得改成你自己的！！！
+jiki = Jikipedia(phone='13357726411', password='fake_pwd')
+# 执行签到
+s = jiki.sign()
+# 判断签到的成功与否
+if s == True:  # 表示成功
+    print('恭喜！签到成功')  # 成功提示语，可以自己改
+else:  # 否则（表示失败）
+    print('淦，签到失败了')  # 失败提示语，可以自己改
+input('\n\n3秒后自动消失...')  # 提示语，可以自己改
+time.sleep(3)  # 等待三秒
+```
+![完成之后的样子](https://cdn.jsdelivr.net/gh/daizihan233/HanBot@main/img._2.png) <br>
+然后按照你平时保存文件的方式走个流程<br>
+![IDLE如何保存文件？①](https://cdn.jsdelivr.net/gh/daizihan233/HanBot@main/img._3.png) <br>
+![IDLE如何保存文件？②](https://cdn.jsdelivr.net/gh/daizihan233/HanBot@main/img._4.png) <br>
+然后加一个自启动项，OK！完事！每天打开电脑就签到，开电脑你总忘不了吧？<br>
+服务器的话可以用计划程序来实现<br>
+~~你服务器都玩那么6，计划程序你也应该会吧？~~
