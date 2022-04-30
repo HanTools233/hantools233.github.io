@@ -100,7 +100,7 @@ time.sleep(3)  # 等待三秒
 ![完成之后的样子](https://cdn.jsdelivr.net/gh/HanTools233/jikipedia-mg-docs@main/img_2.png) <br>
 然后按照你平时保存文件的方式走个流程<br>
 ![IDLE如何保存文件？①](https://cdn.jsdelivr.net/gh/HanTools233/jikipedia-mg-docs@main/img_3.png) <br>
-![IDLE如何保存文件？②](https://cdn.jsdelivr.net/gh/HanTools233/jikipedia-mg-docs@main/img
+![IDLE如何保存文件？②](https://cdn.jsdelivr.net/gh/HanTools233/jikipedia-mg-docs@main/img_4.png) <br>
 _4.png) <br>
 然后加一个自启动项，OK！完事！每天打开电脑就签到，开电脑你总忘不了吧？<br>
 服务器的话可以用计划程序来实现<br>
