@@ -79,8 +79,8 @@ _什么玩意儿？_
 pip install jikipedia
 ```
 打开Python自带的IDLE<br>
-![哪一个软件？图标长什么样？](https://cdn.jsdelivr.net/gh/daizihan233/HanBot@main/img..png) <br>
-![如何IDlE新建Python文件.png](https://cdn.jsdelivr.net/gh/daizihan233/HanBot@main/img._1.png) <br>
+![哪一个软件？图标长什么样？](https://cdn.jsdelivr.net/gh/HanTools233/jikipedia-mg-docs@main/img.png) <br>
+![如何IDlE新建Python文件.png](https://cdn.jsdelivr.net/gh/HanTools233/jikipedia-mg-docs@main/img_1.png) <br>
 将如下代码粘贴到IDLE里：
 ```Python
 from jikipedia import Jikipedia  # 导入刚刚安装的库
@@ -97,10 +97,10 @@ else:  # 否则（表示失败）
 input('\n\n3秒后自动消失...')  # 提示语，可以自己改
 time.sleep(3)  # 等待三秒
 ```
-![完成之后的样子](https://cdn.jsdelivr.net/gh/daizihan233/HanBot@main/img._2.png) <br>
+![完成之后的样子](https://cdn.jsdelivr.net/gh/HanTools233/jikipedia-mg-docs@main/img_2.png) <br>
 然后按照你平时保存文件的方式走个流程<br>
-![IDLE如何保存文件？①](https://cdn.jsdelivr.net/gh/daizihan233/HanBot@main/img._3.png) <br>
-![IDLE如何保存文件？②](https://cdn.jsdelivr.net/gh/daizihan233/HanBot@main/img._4.png) <br>
+![IDLE如何保存文件？①](https://cdn.jsdelivr.net/gh/HanTools233/jikipedia-mg-docs@main/img_3.png) <br>
+![IDLE如何保存文件？②](https://cdn.jsdelivr.net/gh/HanTools233/jikipedia-mg-docs@main/img_4.png) <br>
 然后加一个自启动项，OK！完事！每天打开电脑就签到，开电脑你总忘不了吧？<br>
 服务器的话可以用计划程序来实现<br>
 ~~你服务器都玩那么6，计划程序你也应该会吧？~~
