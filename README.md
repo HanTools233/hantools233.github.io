@@ -10,6 +10,11 @@ _大多数问题是因为没有配置好才发生的_<br><br>
 ~~最后，因任何原因社死了作者概不负责~~
 # 更新日志
 _这只屑又更新了什么？_
+## 2022/05/28 - 魔改版本：2.15.6 | 包版本：20220528
+!> [点此下载改版](https://jikipedia-mg-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8%E9%AD%94%E6%94%B9%E7%89%8820220528.apk)  |  [点此下载原版](https://jikipedia-yb-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8-2.15.6-%E5%8E%9F%E7%89%88%E5%A4%87%E4%BB%BD.apk)
+
+1. App 名称更为 **大寄词典** ~~（已经没有什么想法了~~
+
 ## 2022/05/06 - 魔改版本：2.14.7 | 包版本：220506
 !> [点此下载改版](https://jikipedia-mg-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E5%AF%84%E8%AF%8D%E5%85%B8%E9%AD%94%E6%94%B9%E7%89%88220506.apk)  |  [点此下载原版](https://jikipedia-yb-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8-2.14.7-%E5%8E%9F%E7%89%88%E5%A4%87%E4%BB%BD.apk)
 
