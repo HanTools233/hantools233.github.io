@@ -10,13 +10,18 @@ _大多数问题是因为没有配置好才发生的_<br><br>
 ~~最后，因任何原因社死了作者概不负责~~
 # 更新日志
 _这只屑又更新了什么？_
+## 2022/05/28 - 魔改版本：2.16.4 | 包版本：20220604
+!> [点此下载改版](https://jikipedia-mg-1301949915.cos.accelerate.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8%E9%AD%94%E6%94%B9%E7%89%8820220604.apk)  |  [点此下载原版](https://jikipedia-yb-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8-2.16.4-%E5%8E%9F%E7%89%88%E5%A4%87%E4%BB%BD.apk)
+
+1. 对资源做了反混淆，下一个版本可能会改图标
+
 ## 2022/05/28 - 魔改版本：2.15.6 | 包版本：20220528
-!> [点此下载改版](https://jikipedia-mg-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8%E9%AD%94%E6%94%B9%E7%89%8820220528.apk)  |  [点此下载原版](https://jikipedia-yb-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8-2.15.6-%E5%8E%9F%E7%89%88%E5%A4%87%E4%BB%BD.apk)
+!> [点此下载改版](https://jikipedia-mg-1301949915.cos.accelerate.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8%E9%AD%94%E6%94%B9%E7%89%8820220528.apk)  |  [点此下载原版](https://jikipedia-yb-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8-2.15.6-%E5%8E%9F%E7%89%88%E5%A4%87%E4%BB%BD.apk)
 
 1. App 名称更为 **大寄词典** ~~（已经没有什么想法了~~
 
 ## 2022/05/06 - 魔改版本：2.14.7 | 包版本：220506
-!> [点此下载改版](https://jikipedia-mg-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E5%AF%84%E8%AF%8D%E5%85%B8%E9%AD%94%E6%94%B9%E7%89%88220506.apk)  |  [点此下载原版](https://jikipedia-yb-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8-2.14.7-%E5%8E%9F%E7%89%88%E5%A4%87%E4%BB%BD.apk)
+!> [点此下载改版](https://jikipedia-mg-1301949915.cos.accelerate.myqcloud.com/%E5%B0%8F%E5%AF%84%E8%AF%8D%E5%85%B8%E9%AD%94%E6%94%B9%E7%89%88220506.apk)  |  [点此下载原版](https://jikipedia-yb-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8-2.14.7-%E5%8E%9F%E7%89%88%E5%A4%87%E4%BB%BD.apk)
 
 1. 延续 [2.14.5](/?id=_2022418-魔改版本：2145-包版本：22418-beta1) ，详见 2.14.5 魔改日志
 2. App名称改为 **小寄词典** ~~（欸就tm离谱~~
@@ -31,7 +36,7 @@ _这只屑又更新了什么？_
 
 !> **注意：** 从此版本开始，将会把包名 _com.jikipedia.app_ 更改为 _bug.hantools.app_
 
-!> [点此下载改版](https://jikipedia-mg-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8%E9%AD%94%E6%94%B9%E7%89%8822418-Beta1.apk)  |  [点此下载原版](https://jikipedia-yb-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B82.14.5-%E5%8E%9F%E7%89%88%E5%A4%87%E4%BB%BD.apk)
+!> [点此下载改版](https://jikipedia-mg-1301949915.cos.accelerate.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8%E9%AD%94%E6%94%B9%E7%89%8822418-Beta1.apk)  |  [点此下载原版](https://jikipedia-yb-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B82.14.5-%E5%8E%9F%E7%89%88%E5%A4%87%E4%BB%BD.apk)
 
 1. 延续 [2.14.5](/?id=_2022417-魔改版本：2145) 版本魔改的特性，见2.14.5魔改更新日志
 
@@ -49,7 +54,7 @@ _这只屑又更新了什么？_
 「把陌生人带回家是你的自由，吼两声是狗的责任」<br>
 如果还理解不了的话当成误报即可
 
-!> [点此下载改版](https://jikipedia-mg-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B82.14.5%2B%E9%AD%94%E6%94%B9%E7%89%88.apk)  |  [点此下载原版](https://jikipedia-yb-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B82.14.5-%E5%8E%9F%E7%89%88%E5%A4%87%E4%BB%BD.apk)
+!> [点此下载改版](https://jikipedia-mg-1301949915.cos.accelerate.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B82.14.5%2B%E9%AD%94%E6%94%B9%E7%89%88.apk)  |  [点此下载原版](https://jikipedia-yb-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B82.14.5-%E5%8E%9F%E7%89%88%E5%A4%87%E4%BB%BD.apk)
 1. 延续 [2.14.4](/?id=_2022412-魔改版本：2144) 版本魔改的特性，见2.14.4魔改更新日志
 2. **_（实验性）_** 删除部分没有用的资源，减少了一点点体积
 3. 对APK安装包进行**去除签名验证、RES资源混淆**
@@ -57,11 +62,11 @@ _这只屑又更新了什么？_
 ?> 这个是为了防止报毒做的实验，但并没有什么卵用，效果并不理想，将会在下个版本移除 
 
 ## 2022/4/12 - 魔改版本：2.14.4 
-!> [点此下载改版](https://jikipedia-mg-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8-2.14.4%2B%E9%AD%94%E6%94%B9%E7%89%88.apk)  |  [点此下载原版](https://jikipedia-yb-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8-2.14.4-%E5%8E%9F%E7%89%88%E5%A4%87%E4%BB%BD.apk)
+!> [点此下载改版](https://jikipedia-mg-1301949915.cos.accelerate.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8-2.14.4%2B%E9%AD%94%E6%94%B9%E7%89%88.apk)  |  [点此下载原版](https://jikipedia-yb-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8-2.14.4-%E5%8E%9F%E7%89%88%E5%A4%87%E4%BB%BD.apk)
 1. 延续 [2.12.92](/?id=_202242-魔改版本：21292) 版本魔改的特性，见2.12.92魔改更新日志
 
 ## 2022/4/2 - 魔改版本：2.12.92
-!> [点此下载改版](https://jikipedia-mg-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8-2.12.92%2B%E9%AD%94%E6%94%B9%E7%89%88.apk)  |  [点此下载原版](https://jikipedia-yb-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8-2.12.92-%E5%8E%9F%E7%89%88%E5%A4%87%E4%BB%BD.apk)
+!> [点此下载改版](https://jikipedia-mg-1301949915.cos.accelerate.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8-2.12.92%2B%E9%AD%94%E6%94%B9%E7%89%88.apk)  |  [点此下载原版](https://jikipedia-yb-1301949915.cos.ap-nanjing.myqcloud.com/%E5%B0%8F%E9%B8%A1%E8%AF%8D%E5%85%B8-2.12.92-%E5%8E%9F%E7%89%88%E5%A4%87%E4%BB%BD.apk)
 1. 修改开屏首页<br>
 
 ?> 注：首页图片由 [小鸡词典@浪安先生](https://jikipedia.com/definitions/user/115112142) 提供
@@ -91,8 +96,8 @@ _什么玩意儿？_
 pip install jikipedia
 ```
 打开Python自带的IDLE<br>
-![哪一个软件？图标长什么样？](https://cdn.jsdelivr.net/gh/HanTools233/hantools233.github.io@main/img.png) <br>
-![如何IDlE新建Python文件.png](https://cdn.jsdelivr.net/gh/HanTools233/hantools233.github.io@main/img_1.png) <br>
+![哪一个软件？图标长什么样？](img.png) <br>
+![如何IDlE新建Python文件.png](img_1.png) <br>
 将如下代码粘贴到IDLE里：
 ```Python
 from jikipedia import Jikipedia  # 导入刚刚安装的库
@@ -109,10 +114,10 @@ else:  # 否则（表示失败）
 input('\n\n3秒后自动消失...')  # 提示语，可以自己改
 time.sleep(3)  # 等待三秒，程序运行结束自动退出
 ```
-![完成之后的样子](https://cdn.jsdelivr.net/gh/HanTools233/hantools233.github.io@main/img_2.png) <br>
+![完成之后的样子](img_2.png) <br>
 然后按照你平时保存文件的方式走个流程<br>
-![IDLE如何保存文件？①](https://cdn.jsdelivr.net/gh/HanTools233/hantools233.github.io@main/img_3.png) <br>
-![IDLE如何保存文件？②](https://cdn.jsdelivr.net/gh/HanTools233/hantools233.github.io@main/img_4.png) <br>
+![IDLE如何保存文件？①](img_3.png) <br>
+![IDLE如何保存文件？②](img_4.png) <br>
 然后加一个自启动项，OK！完事！每天打开电脑就签到，开电脑你总忘不了吧？<br>
 服务器的话可以用计划程序来实现<br>
 ~~你服务器都玩那么6，计划程序你也应该会吧？~~
